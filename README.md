@@ -18,3 +18,5 @@ Attribute Information
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) stroke: 1 if the patient had a stroke or 0 if not
 *Note: "Unknown" in smoking_status means that the information is unavailable for this patient
+
+At the end of work, I have implemented marking and encoding throughout data that are presented. Ultimately, I have achieved 95.21% with KNN. 
